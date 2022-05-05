@@ -1,4 +1,4 @@
-Area,Intrusion Name, Length, Danger Level, Shortest Dist to Wire, Volume, Date, Start Point X,Start Point Y,End Point X,End Point Y,POINT-X,POINT-Y,Total Length
+Area,Intrusion_Name, Length, Danger_Level, Shortest_Dist_Wire, Volume, Date, Start_Point_X,Start_Point_Y,End_Point_X,End_PointvY,POINT-X,POINT-Y,Total_Length
 Hegsetfoss,1,10.08,U1,2.75,35.26,8/10/2021,617820,6999022.7,617811.9,6999014.6,617821.3,6999017,11.46
 Hegsetfoss,2,2.62,U2,3.99,5.95,8/10/2021,617806.3,6999008.9,617804.4,6999007,617801.6,6999013.2,2.62
 Hegsetfoss,3,2.59,U3,4.02,2.11,8/10/2021,617687,6998888.6,617681.4,6998883,617684.8,6998890.4,7.89
